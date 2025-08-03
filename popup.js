@@ -101,7 +101,7 @@ const locations = [
             <ul>
                 <li><b>Função:</b> Rastreia a rota dos pacotes até o destino.</li>
                 <li><b>Exemplo:</b> <code>tracert mail.seudominio.com.br</code></li>
-                <li><b>Uso:</b> Identificar falhas na rota de conexão.</li>
+                <li><b>Uso:</b> O que faz: Rastreia a rota que os pacotes de dados percorrem desde o seu computador até um destino específico. Ele mostra cada "salto" (router ou dispositivo de rede) no caminho, com o tempo de resposta para cada um. Ajuda a identificar onde uma conexão está falhando ou onde há lentidão..</li>
             </ul>
 
             <h4>nslookup [domínio]</h4>
@@ -137,7 +137,34 @@ const locations = [
         name:"Roteadores",
         "button text":["📧 E-mail","💻 CMD","Voltar"],
         "button functions":[email, cmd, popup],
-        text:"roteadores"
+        text:`<h4>📡 roteadores </h4>
+
+              <h4>Configuração de router: </h4>
+  <ul>
+    <li>Comodato: Reconfiguração direto pelo siaf</li>
+    
+    <li>Próprio do cliente:</li>
+    <ul>
+    <liConectar cabo de rede no aparelho caso tenha</li>
+    <li>buscar no browser por 192.168.0.1(padrão) || pelo nome da marca EX: tplinkwifi.net.</li>
+    <li></li>
+       </ul>
+    </ul>
+
+
+            
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        `
     }
 ];
 
