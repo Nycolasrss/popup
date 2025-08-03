@@ -1,0 +1,37 @@
+ {
+
+  "manifest_version": 3,
+
+  "name": "Assistente N1",
+
+  "version": "1.0",
+
+  "description": "Ferramenta de suporte para técnicos N1",
+
+  "action": {
+
+    "default_popup": "popup.html"
+
+   
+
+  },
+
+  "permissions": [
+
+    "storage",
+
+    "activeTab",
+
+    "scripting"
+
+  ],
+
+  "host_permissions": [
+
+    "<all_urls>"
+
+  ]
+
+  
+
+} 

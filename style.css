@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 0.8rem;
+  color: #fff;
+  padding: 10px;
+  width: 300px;
+ background-image: linear-gradient(#73aedd,#2284d4 )
+ 
+}
+#menu button {
+  margin: 5px;
+  padding: 8px;
+  border-radius: 5px;
+  background: #d9e0e7;
+  color: white;
+  background-image: linear-gradient(#0219eb, #2284d4)
+}
+#menu button:hover {
+  background: #030966;
+  color: rgb(16, 0, 243);
+  
+}
+#text h3 {
+  margin-top: 15px;
+
+}
+
+ul>li>a{
+  color: #180808;
+  list-style: upper-latin;
+  font-weight: bolder;
+}
