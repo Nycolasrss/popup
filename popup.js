@@ -33,6 +33,14 @@ const locations = [
         "button text":["💻 CMD","🌐 Roteadores", "Voltar"],
         "button functions":[cmd,roteadores,popup],
         text: `
+            
+             <h4>Verificações Básicas:</h4>
+            <ul>
+                <li>Verificar espaço de armazenamento</li>
+                <li>Testar acesso pelo webmail e outros gerenciadores</li>
+                <li>Verificação de portas, SSL e servidor utilizado</li>
+                
+            </ul>
             <h3>📧 Suporte de E-mail</h3>
             <h4>Configurações Básicas:</h4>
             <ul>
