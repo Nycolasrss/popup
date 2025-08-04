@@ -159,10 +159,7 @@ const locations = [
         
         
         
-        
-        
-        
-        
+    
         
         `
     }
