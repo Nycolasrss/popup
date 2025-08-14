@@ -147,9 +147,16 @@ const locations = [
     <ul>
     <liConectar cabo de rede no aparelho caso tenha</li>
     <li>buscar no browser por 192.168.0.1(padrão) || pelo nome da marca EX: tplinkwifi.net.</li>
-    <li></li>
+    <li>Fornecer User/Passowrd PPPOE </li>
        </ul>
+     <li>Para a rede Mesh é necessário os routers de mesmo modelo(basta configurar o primeiro e conectar o cabo ao segundo)
+
+
+
+
     </ul>
+
+    
 
 
             
