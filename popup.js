@@ -137,9 +137,9 @@ const locations = [
         name:"Roteadores",
         "button text":["📧 E-mail","💻 CMD","Voltar"],
         "button functions":[email, cmd, popup],
-        text:`<h4>📡 roteadores </h4>
+        text:`<h2>📡 roteadores </h2>
 
-              <h4>Configuração de router: </h4>
+              <h3>Configuração de router: </h3>
   <ul>
     <li>Comodato: Reconfiguração direto pelo siaf</li>
     
@@ -155,6 +155,7 @@ const locations = [
      <li>é possível deixar um router gerenciando a rede com o wifi desligado e passar a conexão para Twibi ou Deco</li>
      <li>Diferentes Firwmares podem ter WDS ao invés de MESH</li>
     </ul>      
+
         `
     }
 ];
