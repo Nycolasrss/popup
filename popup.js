@@ -154,25 +154,7 @@ const locations = [
      <li>Twibi e Deco podem ser usados como principal</li>
      <li>é possível deixar um router gerenciando a rede com o wifi desligado e passar a conexão para Twibi ou Deco</li>
      <li>Diferentes Firwmares podem ter WDS ao invés de MESH</li>
-
-
-
-
-
-    </ul>
-
-    
-
-
-            
-        
-        
-        
-        
-        
-        
-    
-        
+    </ul>      
         `
     }
 ];
