@@ -149,7 +149,12 @@ const locations = [
     <li>buscar no browser por 192.168.0.1(padrão) || pelo nome da marca EX: tplinkwifi.net.</li>
     <li>Fornecer User/Passowrd PPPOE </li>
        </ul>
-     <li>Para a rede Mesh é necessário os routers de mesmo modelo(basta configurar o primeiro e conectar o cabo ao segundo)
+     <li>Para a rede Mesh é necessário os routers de mesmo modelo(basta configurar o primeiro e conectar o cabo ao segundo)</li>
+     <li>Routers Huawei para compatibilizar o mesh precisam estar com a mesma versão(chinesa || global)</li>
+     <li>Twibi e Deco podem ser usados como principal</li>
+     <li>é possível deixar um router gerenciando a rede com o wifi desligado e passar a conexão para Twibi ou Deco</li>
+     <li>Diferentes Firwmares podem ter WDS ao invés de MESH</li>
+
 
 
 
